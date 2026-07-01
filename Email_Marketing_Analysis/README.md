@@ -14,8 +14,8 @@ Based on the visualized metrics and the Top-10 ranking:
 1. **Market Leadership:** The United States is the absolute leader in both the number of new accounts created (12,384) and the volume of emails sent (233,503).
 2. **Campaign Dynamics:** The time-series analysis reveals a clear peak in email distribution during **December 2020**, followed by a gradual and consistent decline into early 2021.
 
-![Dashboard Preview](посилання_на_твою_картинку_тут.png) 
-*(Note: Upload your screenshot to the GitHub repo and replace the link above with the actual image path).*
+Dashboard : https://datastudio.google.com/reporting/e93b44fa-aa1c-48c2-867e-6e9690b8f1a9  
+
 
 ## 💻 SQL Query Logic
 The data extraction and transformation process was broken down into several logical steps using Common Table Expressions (CTEs):
