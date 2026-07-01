@@ -11,7 +11,7 @@ This analysis evaluates the accuracy of revenue predictions by comparing them ag
     * `DATE_TRUNC` for temporal aggregation.
 
 ## 📊 Key Insights
-* The analysis provides a daily fulfillment percentage, helping stakeholders understand if the revenue projections are over- or underestimated[cite: 2].
+* The analysis provides a daily fulfillment percentage, helping stakeholders understand if the revenue projections are over- or underestimated.
 
 ## 💻 SQL Query Logic
 1. **Data Unification:** Used `UNION ALL` to merge separate tables containing actual daily revenue and daily predicted revenue.
